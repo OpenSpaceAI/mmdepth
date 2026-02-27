@@ -93,7 +93,7 @@ Also, we appreciate all contributions to improve MMDepth framework.
     <td style="align-items:center; border: none;">
       <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/ScaleDepth">ScaleDepth: Decomposing Metric Depth Estimation into Scale Prediction and Relative Depth Estimation</a>
       <br>Ruijie Zhu, Chuxin Wang, Ziyang Song, Li Liu, Tianzhu Zhang, Yongdong Zhang
-      <br> Arxiv, 2024
+      <br> TCSVT, 2026
       <br> 
       <a href="https://arxiv.org/abs/2407.08187">[Paper]</a>
       <a href="https://ruijiezhu94.github.io/ScaleDepth">[Webpage]</a>
@@ -123,7 +123,7 @@ Also, we appreciate all contributions to improve MMDepth framework.
     <td style="align-items:center; border: none;">
       <a href="https://github.com/RuijieZhu94/mmdepth/tree/main/projects/Binsformer">BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation</a>
       <br>Zhenyu Li, Xuyang Wang, Xianming Liu, and Junjun Jiang
-      <br> IEEE Transactions on Image Processing, 2024
+      <br> TIP, 2024
       <br> 
       <a href="https://arxiv.org/abs/2204.00987">[Paper]</a>
       <a href="https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox">[Code]</a>
